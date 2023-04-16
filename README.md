@@ -1,3 +1,13 @@
+# Fake Shop Projesi
+
+Youtube Link:https://youtu.be/UQvENtPHNp8
+![maxresdefault (2)](https://user-images.githubusercontent.com/112883476/232312454-6a2468d5-24f8-495d-bc16-dda7bd6c7a4c.jpg)
+
+![2023-03-19 (2)](https://user-images.githubusercontent.com/112883476/232312498-2ec5f93f-64af-4cf0-89b8-8c1dcd52b1c7.png)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
